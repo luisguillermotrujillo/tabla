@@ -6,11 +6,11 @@
 html{
     font-size: 62.5;
 }
-div table{
-    margin: auto;
-}
 img{
     width: 40px;
     height: 40px;
     border-radius: 8px;
+}
+table thead tr{
+    margin:;
 }
